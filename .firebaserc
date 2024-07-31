@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "nest-admissions-87eec",
+    "final": "admissions-nest",
+    "one": "nest-admissions-87eec"
+  },
+  "targets": {},
+  "etags": {}
+}

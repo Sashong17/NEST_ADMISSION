@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040525342492",
+    "project_id": "admissions-nest",
+    "storage_bucket": "admissions-nest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040525342492:android:a6b53e454bfdd90b05ecd9",
+        "android_client_info": {
+          "package_name": "com.example.nest_admissions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMTkDGr-AIjNaC47q9baOWO_zUZ0vSSnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
